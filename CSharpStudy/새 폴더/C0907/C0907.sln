@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBox", "C0907\ListBox.csproj", "{CCF6DA81-BE05-4D9A-8360-5B40A60F3C8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListView", "ListView\ListView.csproj", "{D6F91D40-5DF9-424B-9E8A-772B80250B42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Image", "Image\A_Image.csproj", "{026F1774-A13A-45DA-B410-5080527DCAD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF6DA81-BE05-4D9A-8360-5B40A60F3C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF6DA81-BE05-4D9A-8360-5B40A60F3C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF6DA81-BE05-4D9A-8360-5B40A60F3C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF6DA81-BE05-4D9A-8360-5B40A60F3C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F91D40-5DF9-424B-9E8A-772B80250B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F91D40-5DF9-424B-9E8A-772B80250B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F91D40-5DF9-424B-9E8A-772B80250B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F91D40-5DF9-424B-9E8A-772B80250B42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{026F1774-A13A-45DA-B410-5080527DCAD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026F1774-A13A-45DA-B410-5080527DCAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026F1774-A13A-45DA-B410-5080527DCAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026F1774-A13A-45DA-B410-5080527DCAD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A6D758F-7289-4800-AD53-F5540B1A8E2A}
+	EndGlobalSection
+EndGlobal

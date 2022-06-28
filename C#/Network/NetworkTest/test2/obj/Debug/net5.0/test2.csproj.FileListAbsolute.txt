@@ -1,0 +1,16 @@
+E:\yuhan\GITHUB\Practice\C#\Network\NetworkTest\test2\bin\Debug\net5.0\test2.exe
+E:\yuhan\GITHUB\Practice\C#\Network\NetworkTest\test2\bin\Debug\net5.0\test2.deps.json
+E:\yuhan\GITHUB\Practice\C#\Network\NetworkTest\test2\bin\Debug\net5.0\test2.runtimeconfig.json
+E:\yuhan\GITHUB\Practice\C#\Network\NetworkTest\test2\bin\Debug\net5.0\test2.runtimeconfig.dev.json
+E:\yuhan\GITHUB\Practice\C#\Network\NetworkTest\test2\bin\Debug\net5.0\test2.dll
+E:\yuhan\GITHUB\Practice\C#\Network\NetworkTest\test2\bin\Debug\net5.0\ref\test2.dll
+E:\yuhan\GITHUB\Practice\C#\Network\NetworkTest\test2\bin\Debug\net5.0\test2.pdb
+E:\yuhan\GITHUB\Practice\C#\Network\NetworkTest\test2\obj\Debug\net5.0\test2.csproj.AssemblyReference.cache
+E:\yuhan\GITHUB\Practice\C#\Network\NetworkTest\test2\obj\Debug\net5.0\test2.GeneratedMSBuildEditorConfig.editorconfig
+E:\yuhan\GITHUB\Practice\C#\Network\NetworkTest\test2\obj\Debug\net5.0\test2.AssemblyInfoInputs.cache
+E:\yuhan\GITHUB\Practice\C#\Network\NetworkTest\test2\obj\Debug\net5.0\test2.AssemblyInfo.cs
+E:\yuhan\GITHUB\Practice\C#\Network\NetworkTest\test2\obj\Debug\net5.0\test2.csproj.CoreCompileInputs.cache
+E:\yuhan\GITHUB\Practice\C#\Network\NetworkTest\test2\obj\Debug\net5.0\test2.dll
+E:\yuhan\GITHUB\Practice\C#\Network\NetworkTest\test2\obj\Debug\net5.0\ref\test2.dll
+E:\yuhan\GITHUB\Practice\C#\Network\NetworkTest\test2\obj\Debug\net5.0\test2.pdb
+E:\yuhan\GITHUB\Practice\C#\Network\NetworkTest\test2\obj\Debug\net5.0\test2.genruntimeconfig.cache

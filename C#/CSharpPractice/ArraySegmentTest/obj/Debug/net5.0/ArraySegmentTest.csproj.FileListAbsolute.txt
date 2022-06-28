@@ -1,0 +1,16 @@
+C:\Users\jeong\Documents\GitHub\Practice\C#\CSharpPractice\ArraySegmentTest\bin\Debug\net5.0\ArraySegmentTest.exe
+C:\Users\jeong\Documents\GitHub\Practice\C#\CSharpPractice\ArraySegmentTest\bin\Debug\net5.0\ArraySegmentTest.deps.json
+C:\Users\jeong\Documents\GitHub\Practice\C#\CSharpPractice\ArraySegmentTest\bin\Debug\net5.0\ArraySegmentTest.runtimeconfig.json
+C:\Users\jeong\Documents\GitHub\Practice\C#\CSharpPractice\ArraySegmentTest\bin\Debug\net5.0\ArraySegmentTest.runtimeconfig.dev.json
+C:\Users\jeong\Documents\GitHub\Practice\C#\CSharpPractice\ArraySegmentTest\bin\Debug\net5.0\ArraySegmentTest.dll
+C:\Users\jeong\Documents\GitHub\Practice\C#\CSharpPractice\ArraySegmentTest\bin\Debug\net5.0\ref\ArraySegmentTest.dll
+C:\Users\jeong\Documents\GitHub\Practice\C#\CSharpPractice\ArraySegmentTest\bin\Debug\net5.0\ArraySegmentTest.pdb
+C:\Users\jeong\Documents\GitHub\Practice\C#\CSharpPractice\ArraySegmentTest\obj\Debug\net5.0\ArraySegmentTest.csprojAssemblyReference.cache
+C:\Users\jeong\Documents\GitHub\Practice\C#\CSharpPractice\ArraySegmentTest\obj\Debug\net5.0\ArraySegmentTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\Documents\GitHub\Practice\C#\CSharpPractice\ArraySegmentTest\obj\Debug\net5.0\ArraySegmentTest.AssemblyInfoInputs.cache
+C:\Users\jeong\Documents\GitHub\Practice\C#\CSharpPractice\ArraySegmentTest\obj\Debug\net5.0\ArraySegmentTest.AssemblyInfo.cs
+C:\Users\jeong\Documents\GitHub\Practice\C#\CSharpPractice\ArraySegmentTest\obj\Debug\net5.0\ArraySegmentTest.csproj.CoreCompileInputs.cache
+C:\Users\jeong\Documents\GitHub\Practice\C#\CSharpPractice\ArraySegmentTest\obj\Debug\net5.0\ArraySegmentTest.dll
+C:\Users\jeong\Documents\GitHub\Practice\C#\CSharpPractice\ArraySegmentTest\obj\Debug\net5.0\ref\ArraySegmentTest.dll
+C:\Users\jeong\Documents\GitHub\Practice\C#\CSharpPractice\ArraySegmentTest\obj\Debug\net5.0\ArraySegmentTest.pdb
+C:\Users\jeong\Documents\GitHub\Practice\C#\CSharpPractice\ArraySegmentTest\obj\Debug\net5.0\ArraySegmentTest.genruntimeconfig.cache

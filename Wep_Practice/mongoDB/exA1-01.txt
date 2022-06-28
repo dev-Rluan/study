@@ -1,0 +1,16 @@
+show dbs		// 데이터베이스 목록 보기
+use mongodb_basic
+
+db.sample.insert({"name" : "홍길동"})
+show dbs
+
+db.sample.save({ name: "정주리", age: 23});
+
+db.sample.find();
+db.sample.find().pretty();
+
+db.sample.remove({});
+
+use mongodb_basic
+db.dropDatabase();
+show dbs

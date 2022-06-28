@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HBIrKVJ2oYHe6t8rUusYwl+gci6jhnQqlVDJzyGzemCP/HDJFfatvPIpLZaCmiPH7q1g6o4ka3zNA3TEVbzEvg==",
+  "success": true,
+  "projectFilePath": "E:\\yuhan\\GITHUB\\Practice\\C#\\Network\\NetworkTest\\test2\\test2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeong\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\jeong\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

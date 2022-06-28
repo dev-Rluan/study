@@ -1,0 +1,15 @@
+database: mongobo_basic_3t
+collection: sample
+document:
+"name" : "홍길동"
+name : "정주리", age: 23
+
+db.people.insertMany([
+    { name: "박정민", ename : "PARK Jeong-min", job : "actor", birthday : "1987-02-25", gender : "남", height : 178, weight : 63},
+ { name : "이정재", ename : "Lee Jungjae", job : "actor", gender : "남", agency : "아티스트컴퍼니"},
+ { name : "황정민", ename : "Hwang Jungmin", job : "actor", birthday : "2970-09-01", gender : "남". height : 180, weight : 75} 
+]);
+
+db.people.insertOne(
+    { name: "정재령", ename : "Jung Jaeryeong", job : "student", birthday : "1998-08-07", gender : "남"}
+);
